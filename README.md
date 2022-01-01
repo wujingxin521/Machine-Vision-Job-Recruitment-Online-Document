@@ -1,4 +1,5 @@
 # Machine-Vision-Job-Recruitment-Online-Document
+机器视觉求职招聘文档
 1.行业目标:机器视觉行业
 
 2.解决问题：通过汇总机器视觉群零散发布信息，形成文档。以文档作为媒介，提高信息沟通效率
